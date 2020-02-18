@@ -40,6 +40,12 @@ return false;
   
 }
 
+
+
+
+
+
+
 function findTheCheese (foods) {
  var cheddarCheese=["banana","cheddar","socks"];
  
