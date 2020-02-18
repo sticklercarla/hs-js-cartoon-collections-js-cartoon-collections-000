@@ -45,7 +45,7 @@ function findTheCheese (foods) {
  
  cheddarCheese.find (element[1]);
   for(var i=0; i > foods.length; i++){
-    var cheddarCheese1 = [];
+    var cheddarCheese1 = [""];
     return "no cheese!";
   }
 
