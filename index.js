@@ -43,11 +43,12 @@ return false;
 function findTheCheese (foods) {
  var cheddarCheese=[banana,cheddar,socks];
  
- cheddarCheese.find(element => element)
+ cheddarCheese.find (element[1]);
   for(var i=0; i > foods.length; i++){
-    
+    var cheddarCheese1 = [];
+    return "no cheese!";
   }
-  
+
 }
 
 
