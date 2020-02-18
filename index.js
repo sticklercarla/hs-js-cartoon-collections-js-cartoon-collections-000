@@ -47,7 +47,7 @@ return false;
 
 
 function findTheCheese (foods) {
- cheeseFoods= [];
+ cheeseFoods= ["cheddar","gouda","camembert"];
  
  cheddarCheese.find (element[1]);
   for(var i=0; i > foods.length; i++){
